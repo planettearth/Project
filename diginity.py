@@ -11,5 +11,5 @@ def summary_number(num):
             print(num)
             summary_number(input())
     else:
-        return
+        return num
 summary_number(input())
